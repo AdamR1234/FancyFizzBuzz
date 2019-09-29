@@ -1,2 +1,0 @@
-# FancyFizzBuzz
-Created with CodeSandbox

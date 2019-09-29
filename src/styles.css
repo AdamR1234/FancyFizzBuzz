@@ -1,0 +1,23 @@
+html,
+body {
+  font-size: 1.4em;
+  text-align: center;
+}
+#btn {
+  font-size: 1.5em;
+  position: fixed;
+  left: 0;
+}
+#up {
+  font-size: 1.5em;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  display: none;
+}
+#fizz-wrap {
+  background: red;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
